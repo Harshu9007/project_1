@@ -1,2 +1,2 @@
 # project_1
-From GitHub to Git
+# From GitHub to Git

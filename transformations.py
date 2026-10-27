@@ -1,0 +1,1 @@
+orders_df.filter("status = 'CLOSED")
